@@ -1,4 +1,4 @@
-package OOP_Lab1.ex6_5;
+package Lab01.ex6_5;
 
 public class Year {
     private int y;
