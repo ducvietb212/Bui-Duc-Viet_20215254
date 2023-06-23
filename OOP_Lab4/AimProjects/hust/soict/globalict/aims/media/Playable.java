@@ -1,5 +1,5 @@
 package AimProjects.hust.soict.globalict.aims.media;
 
-interface Playable {
+interface Playable_ {
     public void play();
 }
